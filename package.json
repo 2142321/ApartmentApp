@@ -1,0 +1,24 @@
+{
+  "name": "programmeren_api",
+  "version": "1.0.0",
+  "description": "Appartments & co.",
+  "main": "AppartmentApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawel Trajdos",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "bcrypt": "^3.0.6",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "jwt-simple": "^0.5.6",
+    "mocha": "^6.1.4",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1",
+    "tracer": "^0.9.8"
+  }
+}
